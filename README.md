@@ -1,4 +1,7 @@
 # SimpleEVChargingStation
+
+![Picture](ChargingStation_01.png)
+
 Ultra simple low power charging station for electric vehicle (EV)
 
 Mostly you want to charge your EV as fast as possible.
