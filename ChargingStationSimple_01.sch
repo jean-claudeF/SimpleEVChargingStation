@@ -104,7 +104,7 @@ L Device:R R3
 U 1 1 663B328E
 P 5325 4350
 F 0 "R3" V 5118 4350 50  0000 C CNN
-F 1 "R" V 5209 4350 50  0000 C CNN
+F 1 "1k" V 5209 4350 50  0000 C CNN
 F 2 "" V 5255 4350 50  0001 C CNN
 F 3 "~" H 5325 4350 50  0001 C CNN
 	1    5325 4350
@@ -275,7 +275,7 @@ Wire Wire Line
 Text Notes 10425 1900 0    50   ~ 0
 Control Pilot
 Text Notes 6000 4875 0    50   ~ 0
-CONTROL PILOT\n1kHz\n\nI = PWM * 0.6A  \nfor I = 6...51A\n
+CONTROL PILOT\n1kHz\n\nI = PWM * 60A  \nfor I = 6...51A\n
 Text Notes 5975 5225 0    50   ~ 0
 PWM = 0.1 -> 6A\nPWM = 0.2 -> 12A\n
 $EndSCHEMATC
